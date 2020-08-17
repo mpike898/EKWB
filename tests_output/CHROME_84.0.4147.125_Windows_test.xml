@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="test"
+    errors="0" failures="1" hostname="" id="" package="test" skipped="0"
+    tests="1" time="21.47" timestamp="">
+  
+    <testcase name="User can complete the configuration wizard with a Nickel block color" classname="test" time="21.47" assertions="23">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Timed out while waiting for element &lt;(//div[contains(@class,&#34;colorName&#34;)])[text()=&#34;nickel - Plating&#34;]&gt; to be present for 5000 milliseconds. - expected &#34;visible&#34; but got: &#34;not found&#34; (5077ms)">    at module.exports (C:\Users\mpike\DevMountain\EKWB\testAssets\chooseStyle.js:61:10)
+    at Object.User can complete the configuration wizard with a Nickel block color (C:\Users\mpike\DevMountain\EKWB\Tests\test.js:514:9)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

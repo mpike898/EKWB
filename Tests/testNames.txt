@@ -1,0 +1,18 @@
+User can complete the configuration wizard with an AMD solution*******
+User can complete the configuration wizard with an Intel solution********
+User can complete the configuration wizard with multiple graphics cards******
+User can complete the configuration wizard with a single graphics card*****
+User can complete the configuration wizard with 2 RAM sticks****
+User can complete the configuration wizard with 4 RAM sticks*****
+User can complete the configuration wizard with - RAM sticks selected.********
+User can complete the configuration wizard with a RAM cooling solution*******
+User can complete the configuration wizard with soft tubing*******
+User can complete the configuration wizard with hard tubing********
+User can complete the configuration wizard with each size of tubing******
+User can complete the configuration wizard with each coolant color********
+User can complete the configuration wizard with each fitting color*******
+User can complete the configuration wizard with each block material***
+User can complete the configuration wizard with each base finish*****
+User can complete the configuration wizard after selecting pump/res combo option*********
+User can complete the configuration wizard after selecting seperate pump and res option*********
+
